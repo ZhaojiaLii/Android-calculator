@@ -1,12 +1,8 @@
-# Assignment 2: Simple Calculator
-
-The first assignment was all about getting to know better basic widgets. Now this assignment will ask
-you to manipulate a bit more Buttons and TextViews.
+# Simple Calculator
 
 ## Description of the App
 
-In this assignment, you will mainly manipulate Buttons to create a simple calculator. This calculator
-will display the following widgets:
+This calculator will display the following widgets:
 - A TextView that displays the number being typed,
 - 10 Buttons that represent digits from 0 to 9,
 - A Button that represents the floating point,
@@ -16,12 +12,8 @@ will display the following widgets:
 - A Button that will evaluate and display the percentage of the number in the TextView,
 - A Button that will clear the contents of the TextView.
 
-You can base the design of your app on the figure displayed in the course notes.
-
 ## Detailed specifications
-The following points must be implemented in your app:
-1. Although the calculator can manipulate floating numbers, the evaluation of floating numbers does
-not need to be exact.
+1. Although the calculator can manipulate floating numbers, the evaluation of floating numbers does not need to be exact.
 2. All operations must be defined. In particular, dividing by 0 should be prohibited.
 3. It is impossible to have multiple floating points inside a single number.
 4. If the user presses the "=" button several times in a row, the calculator applies the same operation
