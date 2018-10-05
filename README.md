@@ -39,8 +39,3 @@ evaluating an expression.
     - Without pressing "=", user directly presses "-" and TextView displays 20
     - etc.
     
-
-## Deadline for submission
-Deadline: October 2 2018, 23:59
-
-Lateness policy applies.
